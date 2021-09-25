@@ -1,7 +1,7 @@
-repository: minha12/nbdev_tutoral
+repository: minha12/nbdev_tutorial
 output: web
-topnav_title: nbdev_tutoral
-site_title: nbdev_tutoral
+topnav_title: nbdev_tutorial
+site_title: nbdev_tutorial
 company_name: Minh-Ha
 description: "A description of my project"
 # Set to false to disable KaTeX math
