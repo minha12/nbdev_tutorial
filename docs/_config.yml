@@ -1,7 +1,7 @@
-repository: minha12/core
+repository: minha12/nbdev_tutoral
 output: web
-topnav_title: core
-site_title: core
+topnav_title: nbdev_tutoral
+site_title: nbdev_tutoral
 company_name: Minh-Ha
 description: "A description of my project"
 # Set to false to disable KaTeX math
@@ -63,4 +63,4 @@ plugins:
     - jekyll-remote-theme
     
 remote_theme: fastai/nbdev-jekyll-theme
-baseurl: /core/
+baseurl: /nbdev_tutoral/
